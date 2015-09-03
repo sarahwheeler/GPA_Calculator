@@ -1,18 +1,19 @@
 # Summary
 
-`gpa_calculator` is a gem that allows you to input course information and receive a GPA total, as well as a detailed grade report. You can provide grades as either letters or percentage scores.
+`gpa_calculator` is a command line tool that allows you to input course information and receive a GPA total, as well as a detailed grade report. You can provide grades as either letters or percentage scores.
 
 ## Installation
 
-In the command, install the gem:
+In the command line, clone the files:
 
-    $ gem install gpa_calculator
+    $ git clone git@github.com:sarahwheeler/GPA_Calculator.git
+    $ cd GPA_Calculator
 
 ## Usage
 
 After installation, simply type:
 
-		$ gpa_calculator
+		$ bundle exec gpa_calculator
 
 and you will be prompted to enter your course information.
 
