@@ -1,6 +1,6 @@
 # Summary
 
-`gpa_calculator` is a gem that allows you to input course information and receive a GPA total, as well as a detailed grade report. 
+`gpa_calculator` is a gem that allows you to input course information and receive a GPA total, as well as a detailed grade report. You can provide grades as either letters or percentage scores.
 
 ## Installation
 

@@ -2,5 +2,5 @@
 
 require 'gpa_calculator'
 
-calc = GpaCalculator.new  
-calc.main_program
+calc = GpaCalculator::Calculator.new  
+calc.start_program
