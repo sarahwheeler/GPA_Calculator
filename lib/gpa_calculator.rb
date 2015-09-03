@@ -102,7 +102,7 @@ module GpaCalculator
 
 		def percent_to_points(grade)
 			case grade.to_f
-			when 97.0..110.0
+			when 97.0..1000.0
 				points = 4.0
 			when 93.0..96.99
 				points = 4.0
@@ -124,7 +124,7 @@ module GpaCalculator
 				points = 1.3
 			when 65.0..66.99
 				points = 1.0
-			when 0.0..64.99
+			when -1000.0..64.99
 				points = 0
 			else
 				puts "An error has occurred"
