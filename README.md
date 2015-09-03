@@ -4,7 +4,7 @@
 
 ## Installation
 	
-	To install as a gem:
+To install as a gem:
 
 		$ gem install gpa_calculator
 
