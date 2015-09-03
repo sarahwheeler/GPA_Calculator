@@ -6,13 +6,13 @@
 
 In the command, install the gem:
 
-    `$ gem install gpa_calculator`
+    $ gem install gpa_calculator
 
 ## Usage
 
 After installation, simply type:
 
-		`$ gpa_calculator`
+		$ gpa_calculator
 
 and you will be prompted to enter your course information.
 
